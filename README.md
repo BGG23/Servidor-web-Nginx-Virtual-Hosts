@@ -16,6 +16,18 @@ Iremos a los archivos de configuracion de Nginx con un "cd /etc/nginx" ya dentro
 ![image](https://user-images.githubusercontent.com/91567318/166508431-16ceb5a3-3d31-4da9-adc1-d72092d19a2f.png)
 
 acontinuacion accederemos a 'sites-available' y hacemos una copia en dicha copia 
+
 ![image](https://user-images.githubusercontent.com/91567318/166511125-5f8533d4-efd6-4fc9-a3f3-e66bbdf48ea8.png)
+
+entramos dentro del documento "default baby-wants.belen.com" con un "nano default baby-wants.belen.com" y cambiaremos los siguientes parametros
+
+![image](https://user-images.githubusercontent.com/91567318/166515526-b9f7d1ea-1a74-466e-93c0-ee157295a1ba.png)
+
+Ahora en 'sites-enabled' creo un link simbolico que apunte a los archivos anteriores
+![image](https://user-images.githubusercontent.com/91567318/166516511-81179bf9-f146-47ee-aa99-349dec8316a2.png)
+
+
+
+
 
 
