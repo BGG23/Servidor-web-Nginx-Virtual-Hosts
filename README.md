@@ -30,7 +30,7 @@ Despues de esto iremos a la direccion "/var/www/" con un "cd /var/www/" y creare
 
 ![image](https://user-images.githubusercontent.com/91567318/166521551-67fda290-5f54-4dfa-96fa-3bde19813288.png)
  
-Iremos a la carpeta "cd /etc/" y entraremos al archivo Hosts con un "nano hosts" y añadiremos las direcciones de las paginas
+Iremos a la carpeta "cd /etc/" y entraremos al archivo Hosts con un "nano hosts" y añadiremos las direcciones de las paginas, despues de esto reiniciamos el Nginx con un "restart nginx"
 
 ![image](https://user-images.githubusercontent.com/91567318/166519230-6cc90b7a-ad4e-489f-9516-0a6de72bb1ee.png)
 
