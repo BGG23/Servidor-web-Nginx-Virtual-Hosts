@@ -26,11 +26,11 @@ entramos dentro del documento "default baby-wants.belen.com" con un "nano defaul
 Ahora en "sites-enabled" y creamos un link simbolico que apunte a los archivos anteriores
 ![image](https://user-images.githubusercontent.com/91567318/166516511-81179bf9-f146-47ee-aa99-349dec8316a2.png)
 
-despues de esto iremos a la direccion "/var/www/" con un "cd /var/www/" y crearemos una carpeta llamada como la pagina, en mi caso es "/var/www/rain" y "/var/www/baby" entraremos dentro con un "cd rain" y despues crearemos un html "nano index.html" y dentro pegaremos el html de la pagina deseada. repetimos este mismo paso con la otra pagina.
+Despues de esto iremos a la direccion "/var/www/" con un "cd /var/www/" y crearemos una carpeta llamada como la pagina, en mi caso es "/var/www/rain" y "/var/www/baby" entraremos dentro con un "cd rain" y despues crearemos un html "nano index.html" y dentro pegaremos el html de la pagina deseada. repetimos este mismo paso con la otra pagina.
 
 ![image](https://user-images.githubusercontent.com/91567318/166521551-67fda290-5f54-4dfa-96fa-3bde19813288.png)
  
- despues iremos a la carpeta "cd /etc/" y entraremos al archivo Hosts con un "nano hosts" y añadiremos las direcciones de las paginas
+Iremos a la carpeta "cd /etc/" y entraremos al archivo Hosts con un "nano hosts" y añadiremos las direcciones de las paginas
 
 ![image](https://user-images.githubusercontent.com/91567318/166519230-6cc90b7a-ad4e-489f-9516-0a6de72bb1ee.png)
 
